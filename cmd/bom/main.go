@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(pk.Pk("tom"))
+	fmt.Println(pk.Pk("bom"))
 }
